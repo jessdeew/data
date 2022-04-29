@@ -1,18 +1,35 @@
-﻿Ethnicity,Male,Female
-White British,13.78,11.21
-White Irish,17.80,16.93
-White Other,12.07,10.95
-White and Black Caribbean,12.76,9.71
-White and Black African,12.82,10.13
-White and Asian,14.43,12.50
-Other mixed/multiple ethnic groups,13.28,12.07
-Indian,16.49,12.39
-Pakistani,11.43,10.10
-Bangladeshi,10.41,10.60
-Chinese,18.05,14.16
-Asian Other,12.16,11.06
-Black African,12.13,10.92
-Black Caribbean,12.03,12.09
-Black Other,12.28,11.53
-Arab,12.10,12.49
-Other ethnic group,12.03,11.11
+﻿Ethnicity,Gender,Median Hourly Pay
+White British,Male,13.78
+White Irish,Male,17.8
+White Other,Male,12.07
+White and Black Caribbean,Male,12.76
+White and Black African,Male,12.82
+White and Asian,Male,14.43
+Other mixed/multiple ethnic groups,Male,13.28
+Indian,Male,16.49
+Pakistani,Male,11.43
+Bangladeshi,Male,10.41
+Chinese,Male,18.05
+Asian Other,Male,12.16
+Black African,Male,12.13
+Black Caribbean,Male,12.03
+Black Other,Male,12.28
+Arab,Male,12.1
+Other ethnic group,Male,12.03
+White British,Female,11.21
+White Irish,Female,16.93
+White Other,Female,10.95
+White and Black Caribbean,Female,9.71
+White and Black African,Female,10.13
+White and Asian,Female,12.5
+Other mixed/multiple ethnic groups,Female,12.07
+Indian,Female,12.39
+Pakistani,Female,10.1
+Bangladeshi,Female,10.6
+Chinese,Female,14.16
+Asian Other,Female,11.06
+Black African,Female,10.92
+Black Caribbean,Female,12.09
+Black Other,Female,11.53
+Arab,Female,12.49
+Other ethnic group,Female,11.11
