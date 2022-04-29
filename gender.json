@@ -168,5 +168,10 @@
    "Gender": "Male",
    "Ethnicity": "Other ethnic group",
    "Median Hourly Pay": 12.03
- }
+ },
+ {
+  "Gender": "Male",
+  "Ethnicity": "White and Black African",
+  "Median Hourly Pay": 12.82
+}
 ]
