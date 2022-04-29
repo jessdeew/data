@@ -1,18 +1,35 @@
-﻿Ethnicity,16-29,30+
-White British,9.82,13.7
-White Irish,12.82,18.69
-White Other,10,12.48
-White and Black Caribbean,9.38,12.84
-White and Black African,9.68,13.82
-White and Asian,11.78,15.63
-Other mixed/multiple ethnic groups,8.97,14.54
-Indian,11.25,15.38
-Pakistani,9.63,11.53
-Bangladeshi,10,10.6
-Chinese,14.29,16.35
-Asian Other,9.75,12.03
-Black African,11.08,11.55
-Black Caribbean,10.09,12.66
-Black Other,10.45,12.65
-Arab,12.1,12.2
-Other ethnic group,10.1,11.59
+﻿Ethnicity,Age,Median Hourly Pay
+Arab,16-29,12.10
+Asian Other,16-29,9.75
+Bangladeshi,16-29,10.00
+Black African,16-29,11.08
+Black Caribbean,16-29,10.09
+Black Other,16-29,10.45
+Chinese,16-29,14.29
+Indian,16-29,11.25
+Other ethnic group,16-29,10.10
+Other mixed/multiple ethnic groups,16-29,8.97
+Pakistani,16-29,9.63
+White and Asian,16-29,11.78
+White and Black African,16-29,9.68
+White and Black Caribbean,16-29,9.38
+White British,16-29,9.82
+White Irish,16-29,12.82
+White Other,16-29,10.00
+Arab,30+,12.20
+Asian Other,30+,12.03
+Bangladeshi,30+,10.60
+Black African,30+,11.55
+Black Caribbean,30+,12.66
+Black Other,30+,12.65
+Chinese,30+,16.35
+Indian,30+,15.38
+Other ethnic group,30+,11.59
+Other mixed/multiple ethnic groups,30+,14.54
+Pakistani,30+,11.53
+White and Asian,30+,15.63
+White and Black African,30+,13.82
+White and Black Caribbean,30+,12.84
+White British,30+,13.70
+White Irish,30+,18.69
+White Other,30+,12.48
