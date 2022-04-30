@@ -1,35 +1,33 @@
 ﻿Gender,Ethnicity,Median Hourly Pay
-Female,White British,11.21
-Female,White Irish,16.93
-Female,White Other,10.95
-Female,White and Black African,9.71
-Female,White and Black Caribbean,10.13
-Female,White and Asian,12.5
-Female,Other mixed/multiple ethnic groups,12.07
-Female,Indian,12.39
-Female,Pakistani,10.1
-Female,Bangladeshi,10.6
-Female,Chinese,14.16
-Female,Asian Other,11.06
-Female,Black African,10.92
-Female,Black Caribbean,12.09
-Female,Black Other,11.53
-Female,Arab,12.49
-Female,Other ethnic group,11.11
-Male,White British,13.78
-Male,White Irish,17.8
-Male,White Other,12.07
-Male,White and Black Caribbean,12.76
-Male,White and Black Caribbean,12.82
-Male,White and Asian,14.43
-Male,Other mixed/multiple ethnic groups,13.28
-Male,Indian,16.49
-Male,Pakistani,11.43
-Male,Bangladeshi,10.41
-Male,Chinese,18.05
-Male,Asian Other,12.16
-Male,Black African,12.13
-Male,Black Caribbean,12.03
-Male,Black Other,12.28
-Male,Arab,12.1
-Male,Other ethnic group,12.03
+Female,White Irish,-29.2
+Female,White Other,12.4
+Female,White and Black African,7.4
+Female,White and Black Caribbean,7.0
+Female,White and Asian,-4.7
+Female,Other mixed/multiple ethnic groups,3.6
+Female,Indian,-19.7
+Female,Pakistani,17.1
+Female,Bangladeshi,24.5
+Female,Chinese,-31.0
+Female,Asian Other,11.8
+Female,Black African,12.0
+Female,Black Caribbean,12.7
+Female,Black Other,10.9
+Female,Arab,12.2
+Female,Other ethnic group,12.7
+Male,White Irish,-51.0
+Male,White Other,2.3
+Male,White and Black Caribbean,13.4
+Male,White and Black Caribbean,9.6
+Male,White and Asian,-11.5
+Male,Other mixed/multiple ethnic groups,-7.7
+Male,Indian,-10.5
+Male,Pakistani,9.9
+Male,Bangladeshi,5.4
+Male,Chinese,-26.3
+Male,Asian Other,1.3
+Male,Black African,2.6
+Male,Black Caribbean,-7.9
+Male,Black Other,-2.9
+Male,Arab,-11.4
+Male,Other ethnic group,0.9
